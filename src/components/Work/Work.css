@@ -1,0 +1,10 @@
+.work-container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.work-container ul {
+  list-style-type: none;
+}
+.work-container ul li {
+  font-weight: bold;
+}/*# sourceMappingURL=Work.css.map */

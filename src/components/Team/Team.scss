@@ -1,0 +1,31 @@
+.team-container{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+
+    .team-des{
+        
+        h2{
+            color: black;
+            font-weight: bold;
+
+        }
+        p{
+            color: gray;
+        }
+    }
+    .team-players-column{
+        text-align: left;
+        h3{
+            margin-top: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            font-family: 'Sans-serif';
+        }
+        .social-column{
+            color: gray;
+        }
+        
+    }
+    
+}

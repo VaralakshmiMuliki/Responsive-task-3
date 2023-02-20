@@ -1,0 +1,104 @@
+.pricing-container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  .bb{
+    // border: 1px solid blue;
+  }
+
+  h2 {
+    font-size: 38px;
+    font-family: "sans-serif";
+    font-weight: 700;
+  }
+  p {
+    color: gray;
+    font-size: 16px;
+  }
+  .normal-button {
+    background: white;
+    border: 2px solid #f9004d;
+    padding: 10px;
+    color: #f9004d;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .advanced-button {
+    background: white;
+    border: 0;
+    padding: 10px;
+    color: #f9004d;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+
+  .price-normal-column {
+    border: 2px solid red;
+    background-color: white;
+    padding: 20px 10px 20px 10px;
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+    .tick-icon {
+      color: #f9004d;
+      height: 20px;
+      width: 35px;
+      font-weight: lighter;
+    }
+    h1 {
+      font-size: 60px;
+      font-weight: bold;
+      color: #f9004d;
+    }
+    p {
+      color: #f9004d;
+    }
+    li {
+      color: black;
+    }
+    h3 {
+      font-size: 30px;
+      font-weight: bold;
+    }
+  }
+  .price-advanced-column {
+    border: 2px solid red;
+
+    background-color: #f9004d;
+    padding: 20px 10px 20px 10px;   
+        
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+    }
+    .tick-icon {
+      color: white;
+      height: 20px;
+      width: 35px;
+      font-weight: lighter;
+    }
+    h1 {
+      font-size: 60px;
+      font-weight: bold;
+      color: white;
+    }
+    p {
+      color: white;
+    }
+    li {
+      color: white;
+    }
+    h3 {
+      font-size: 30px;
+      font-weight: bold;
+      color: white;
+    }
+  }
+}

@@ -1,0 +1,57 @@
+@media (min-width: 768px) and (max-width: 1023px) {
+  .brand-logo {
+    height: 37px;
+    width: 140px;
+  }
+  .carousel-container .carousel-1-des {
+    width: 350px;
+    transform: translateX(80%);
+  }
+  .carousel-container .carousel-1-des p {
+    text-align: center;
+  }
+  .carousel-container .carousel-2-des {
+    width: 350px;
+  }
+  .carousel-container .carousel-2-des p {
+    text-align: center;
+  }
+  .stratagey-container .straragy-card {
+    color: #f61b10;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .service-container .service-img {
+    width: 210px;
+  }
+}
+@media (min-width: 1024px) {
+  .brand-logo {
+    height: 37px;
+    width: 140px;
+  }
+  .carousel-2-des {
+    width: 400px;
+  }
+  .carousel-2-des p {
+    text-align: center;
+  }
+  .carousel-1-des {
+    width: 400px;
+    transform: translateX(130%);
+  }
+  .carousel-1-des p {
+    text-align: center;
+  }
+  .stratagey-container .straragy-card {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .service-container .service-img {
+    width: 210px;
+  }
+}/*# sourceMappingURL=mediaQueries.css.map */

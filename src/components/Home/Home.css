@@ -1,0 +1,47 @@
+.bg-imag-1 {
+  background-image: url("https://trydo.rainbowit.net/assets/images/bg/bg-image-32.jpg");
+  background-size: cover;
+  background-position: 40%;
+}
+
+.carousel,
+.carousel-item,
+.carousel-inner {
+  height: 400px !important;
+  width: 100% !important;
+}
+
+.bg-imag-2 {
+  background-image: url("https://trydo.rainbowit.net/assets/images/bg/bg-image-31.jpg");
+  background-size: cover;
+  background-position: 60%;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
+.carousel-1-des {
+  padding-right: 10px;
+  top: 35%;
+  transform: translateX(50%);
+}
+
+.carousel-2-des {
+  padding: 15px;
+  top: 38%;
+  transform: translateX(-25%);
+}
+
+.carousel-button {
+  background: #f9004d;
+  padding: 10px;
+  color: #fff;
+  border: 0;
+}
+
+
+.carousel-container h1 {
+  font-weight: bold;
+  font-size: 36px;
+} /*# sourceMappingURL=Home.css.map */

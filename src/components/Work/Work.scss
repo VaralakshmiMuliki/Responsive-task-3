@@ -1,0 +1,43 @@
+.work-container {
+    background: #f8f9fc;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    li {
+        padding-left: 0;
+      font-weight: 600;
+      font-size: 13px;
+      color: #1f1f25;
+      line-height: 35px;
+    }
+  }
+  .work-column {
+    padding-left: 45px;
+    h2 {
+      font-weight: bold;
+      font-size: 38px;
+      margin-bottom:20px;
+    }
+    p{
+        line-height: 30px;
+    }
+  }
+
+  .work-button {
+    margin-top: 80px;
+    background: #f9004d;
+    color: #fff;
+    border: 0;
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+  }
+  .work-button:hover {
+    background-color: transparent;
+    border: 2px solid #f9004d;
+    color: #f9004d;
+    font-weight: 600;
+  }
+}

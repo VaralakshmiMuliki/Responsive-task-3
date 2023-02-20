@@ -1,0 +1,31 @@
+.stratagey-container {
+  box-sizing: border-box;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+
+  .stratagy-icon {
+    color: white;
+    font-size: 39px;
+    margin-bottom: 10px;
+  }
+  .stratagy-column {
+    .straragy-card {
+      background-image: linear-gradient(90deg, #f61b10, #ef0963);
+
+      color: white;
+      text-align: center;
+      padding: 20px;
+      border-radius: 20px;
+    }
+    // margin-left: 15px;
+    // margin-right: 15px;
+    // margin-top: 20px;
+    // margin-bottom: 20px;
+  }
+  .stratagy-row {
+    box-sizing: border-box;
+  }
+}

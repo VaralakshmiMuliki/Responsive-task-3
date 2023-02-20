@@ -1,0 +1,29 @@
+.contact-container {
+  background: linear-gradient(145deg, #f81f01, #ee076e);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  h3 {
+    font-size: 18px;
+    letter-spacing: 10;
+    color: white;
+  }
+  h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  .contact-btn {
+    border: 2px solid white;
+    background-color: transparent;
+    color: white;
+    font-weight: 600;
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+}

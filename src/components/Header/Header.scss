@@ -1,0 +1,20 @@
+.nav-menus {
+  color: #242121;
+  font-weight: bold;
+  font-size: 15px;
+  font-family: "Roboto";
+}
+.brand-logo {
+  height: 28px;
+  width: 95px;
+}
+.buy-now-button {
+  border: 2px solid rgba(29, 29, 36, 0.5);
+  color: #1d1d24;
+  background-color: transparent;
+}
+.buy-now-button:hover{
+    background: #f9004d;
+    color: #fff;
+    border: 0;
+}

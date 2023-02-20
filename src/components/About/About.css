@@ -1,0 +1,18 @@
+.work-column {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.work-column h2 {
+  font-weight: bold;
+}
+.work-column p,
+.work-column li {
+  color: gray;
+}
+.work-column ul {
+  list-style-type: none;
+}
+.work-column h3 {
+  font-weight: bold;
+  font-size: 18px;
+}/*# sourceMappingURL=About.css.map */
